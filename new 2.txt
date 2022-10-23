@@ -19,3 +19,5 @@ git reset --hard cid (it will delete files and logs)
 git show
 
 
+git push -rebase[D[D[D[D[5~[D[D[Dll[C--
+git pull --rebase
