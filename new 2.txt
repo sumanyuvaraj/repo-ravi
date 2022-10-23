@@ -1,0 +1,21 @@
+git init
+git config --global user.name ""
+git config --global user.email ""
+git config --list
+touch file-name
+ls
+ls -a
+git status
+git add file-name
+git status
+git commit -m "label name" file-name
+git status
+git log
+git show cid (command id)
+git reset --soft cid ((n-1) command id = local to staging)
+git reset HEAD file-name ( staging to work space )
+git reset --mixed cid (local to work space = n-1 command id)
+git reset --hard cid (it will delete files and logs)
+git show
+
+
